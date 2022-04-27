@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="C:\Users\rtyej\OneDrive\바탕 화면\기타\KakaoTalk_20220427_103011558.jpg">
+![KakaoTalk_20220427_103011558](https://user-images.githubusercontent.com/95618332/165421167-fb0f1163-11ba-42a0-ab95-7ed7a378ee11.jpg)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
