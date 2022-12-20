@@ -1,5 +1,12 @@
 ### Hello World! 👋
 
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dwg787&theme=dark&show_icons=true&count_private=true&line_height=24" style="width: 365px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwg787&layout=compact&theme=tokyonight">
+</p>
+<!-- ![Anurag's GitHub stats]( style="width: 492px") -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwg787&layout=compact&theme=tokyonight) -->
 <!--
 **dwg787/dwg787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
