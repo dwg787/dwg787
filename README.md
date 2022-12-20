@@ -5,8 +5,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dwg787&theme=dark&show_icons=true&count_private=true&line_height=24" style="width: 365px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwg787&layout=compact&theme=tokyonight">
 </p>
-<!-- ![Anurag's GitHub stats]( style="width: 492px") -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwg787&layout=compact&theme=tokyonight) -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdwg787%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+                                                
+
+
 <!--
 **dwg787/dwg787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
